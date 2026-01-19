@@ -1,4 +1,4 @@
-package tech.surfer.java_practice;
+package tech.surfer.design_patterns;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
