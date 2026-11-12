@@ -7,6 +7,15 @@ import java.util.stream.Collectors;
 
 public class TestClient {
 
+    /***
+     * Hashmap has few entries like 1,Vijay , 2, Kapil
+     * Implement LRUCache for this data.
+     * Data Accessed on Key: ??
+     * LRUCache size
+     * @param args
+     */
+
+
     // HashMap - Integer, String
     // few entries - 1, "Vijay" 2,"Kapil", 3,"Ramesh"
     // sort by values
